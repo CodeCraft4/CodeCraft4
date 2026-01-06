@@ -54,13 +54,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,appwrite" />
 </p>
 
-### UI Libraries & Tools
-- MUI  
-- Mantine UI  
-- Tailwind CSS  
-- Bootstrap  
-- Custom CSS Architecture  
-
 ---
 
 ## 🌱 Currently Focused On
