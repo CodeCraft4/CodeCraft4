@@ -1,6 +1,6 @@
 <!-- ===== Banner ===== -->
 <p align="center">
-  <img src="https://www.fiverr.com/khan386" alt="Senior Frontend Developer Banner" />
+  <img src="https://www.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_28159021.htm#fromView=search&page=1&position=12&uuid=024c8adc-6a2d-4639-a176-670ba05309c1&query=frontend+developer+banne" alt="Senior Frontend Developer Banner" />
 </p>
 
 <!-- ===== Name + Avatar ===== -->
