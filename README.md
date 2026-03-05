@@ -1,6 +1,6 @@
 <!-- ===== Banner ===== -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C5616AQEaKgX7NHQmSw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1612336047329?e=2147483647&v=beta&t=DzqBQFtQ3w1yxmauZR8qUVPFd_YhX3pwEllLMJbEWto" alt="Senior Frontend Developer Banner" />
+  <img src="https://www.fiverr.com/khan386" alt="Senior Frontend Developer Banner" />
 </p>
 
 <!-- ===== Name + Avatar ===== -->
